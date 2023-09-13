@@ -1,7 +1,7 @@
-<h1 align="center">Hello, my name is Alicja</h1>
+<h1 align="center">Hello, my name is Alicja!</h1>
 <h3 align="center">Frontend learner ✍🏻 </h3>
 
-<p align="center">I'm a student at the maritime university in Gdynia. My major is <b>business informatics</b>. It is a discipline combining economics, business administration, information technology and concepts of Computer Science.</p>
+<p align="center">I'm a graduate of the maritime university in Gdynia. My major was <b>business informatics</b>. It is a discipline combining economics, business administration, information technology and concepts of Computer Science.</p>
 
 <h3 align="center">Languages:</h3>
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="40" height="40"/></a> 
