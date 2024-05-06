@@ -1,7 +1,7 @@
 <h1 align="center">Hello, my name is Alicja!</h1>
 <h3 align="center">Frontend Freelancer </h3>
 
-<p align="center">I hold a degree from the maritime university in Gdynia, specializing in business informatics. This interdisciplinary field merges essential aspects of economics, business administration, and information technology, offering a comprehensive understanding of how technology intersects with business operations. <br/>
+<p align="left">I hold a degree from the maritime university in Gdynia, specializing in business informatics. This interdisciplinary field merges essential aspects of economics, business administration, and information technology, offering a comprehensive understanding of how technology intersects with business operations. <br/>
 Professionally, I excel in frontend development, particularly in web and mobile application development. My toolkit includes React and React Native for building dynamic user interfaces and seamless cross-platform experiences. I leverage the power of TypeScript and JavaScript to write clean, efficient, and scalable codebases, ensuring maintainability and robustness.<br/>
 In addition to my programming skills, I have a keen eye for design, proficiently using CSS, Tailwind CSS, and HTML to craft visually appealing and responsive layouts. This allows me to create engaging user experiences that prioritize usability and aesthetics.<br/>
 Furthermore, I have hands-on experience with Supabase, utilizing its capabilities to streamline backend development and database management tasks. My proficiency extends to PostgreSQL, where I leverage its advanced features and relational database management capabilities to design and optimize database schemas, ensuring data integrity and performance.</p>
